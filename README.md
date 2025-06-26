@@ -1,9 +1,10 @@
 <div style="text-align: center;">
 
 # 💞 About Me:  
-🎓 Software Engineering Student | 💻 Passionate about technology <br>
+✨ Software Engineering Student <br> 
+💜 Passionate about technology <br>
 ✨ Creating projects with love and code <br>
-📍 Brazil | 🌱 Always learning
+💜 Brazil | ✨ Always learning
 <br/>
 
 ### 💟 Connect with me:
