@@ -3,7 +3,6 @@
 # 💞 About Me:  
 ✨ Software Engineering Student <br> 
 💜 Passionate about technology <br>
-✨ Creating projects with love and code <br>
 💜 Brazil | ✨ Always learning
 <br/>
 
