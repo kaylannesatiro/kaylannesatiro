@@ -211,3 +211,22 @@ My name is Kaylanne Sátiro, I'm 19 years old, and I'm studying Software Enginee
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
+<br/>
+<br/>
+
+### 📊 Statistics
+
+<img
+    align="left"
+    alt= "GitHub Stats"
+    height="200"
+    style="padding-right: 10px"
+    src= "https://github-readme-stats.vercel.app/api?username=kaylannesatiro&show=reviews&show_icons=true&theme=omni&include_all_commits=true"
+/>
+<img
+    align="left"
+    alt= "GitHub Stats"
+    height="200"
+    style="padding-right: 10px"
+    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kaylannesatiro&theme=omni&layout=compact&custom_title=Languages&langs_count=9"
+/>
