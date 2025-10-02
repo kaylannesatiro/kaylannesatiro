@@ -22,14 +22,6 @@ My name is Kaylanne Sátiro, I'm 19 years old, and I'm studying Software Enginee
 
 ---
 ### 🤖 Languages ​​and Technologies
-<img 
-    align="left"
-    alt="BASH"
-    title="BASH"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-/>
 
 <img 
     align="left"
@@ -168,33 +160,6 @@ My name is Kaylanne Sátiro, I'm 19 years old, and I'm studying Software Enginee
 
 <img 
     align="left"
-    alt="CANVA"
-    title="CANVA"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="JIRA"
-    title="JIRA"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="TRELLO"
-    title="TRELLO"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
-/>
-
-<img 
-    align="left"
     alt="GIT"
     title="GIT"
     width="30px"
@@ -219,14 +184,14 @@ My name is Kaylanne Sátiro, I'm 19 years old, and I'm studying Software Enginee
 <img
     align="left"
     alt= "GitHub Stats"
-    height="200"
+    height="200px"
     style="padding-right: 10px"
     src= "https://github-readme-stats.vercel.app/api?username=kaylannesatiro&show=reviews&show_icons=true&theme=omni&include_all_commits=true"
 />
 <img
     align="left"
     alt= "GitHub Stats"
-    height="200"
+    height="200px"
     style="padding-right: 10px"
     src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kaylannesatiro&theme=omni&layout=compact&custom_title=Languages&langs_count=9"
 />
