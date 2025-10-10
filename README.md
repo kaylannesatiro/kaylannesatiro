@@ -1,4 +1,4 @@
-# 👩‍💻Kaylanne Sátiro
+# 🩷 Kaylanne Sátiro
 
 **`Full-Stack Developer`**
 
