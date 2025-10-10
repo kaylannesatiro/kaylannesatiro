@@ -1,7 +1,7 @@
 # 👩‍💻 Kaylanne Sátiro
 **`Full-Stack Developer`**
 
-My name is Kaylanne Sátiro, I'm 19 years old, and I'm studying Software Engineering at the Federal University of Ceará. I'm interested in full-stack development, but I have strong connections with front-end and digital design.
+My name is Kaylanne Sátiro, I'm 19 years old, and I'm studying Software Engineering at the Federal University of Ceará. I'm interested in full-stack development, but I have strong connections with front-end.
 
 ---
 ### 🤖 Languages ​​and Technologies
