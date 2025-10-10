@@ -4,22 +4,6 @@
 
 My name is Kaylanne Sátiro, I'm 19 years old, and I'm studying Software Engineering at the Federal University of Ceará. I'm interested in full-stack development, but I have strong connections with front-end and digital design.
 
-<p align="center">
-  <a href="https://github.com/kaylannesatiro?tab=repositories&sort=stargazers">
-    <img 
-    alt="total stars" 
-    title="Total stars on GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/stars/kaylannesatiro?color=fa7697&style=for-the-badge&labelColor=fa4e79&logo=star"
-    />
-    </a>
-  <a href="https://github.com/kaylannesatiro?tab=followers">
-    <img alt="followers" 
-    title="Follow me on Github" 
-    src="https://custom-icon-badges.demolab.com/github/followers/kaylannesatiro?color=fa7697&labelColor=fa4e79&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"
-    />
-    </a>
-</p>
-
 ---
 ### 🤖 Languages ​​and Technologies
 
