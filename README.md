@@ -155,16 +155,15 @@ My name is Kaylanne Sátiro, I'm 19 years old, and I'm studying Software Enginee
 
 ### 📊 Statistics
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=kaylannesatiro&show_icons=true&theme=omni&include_all_commits=true&count_private=true"
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=kaylannesatiro&show_icons=true&theme=omni&include_all_commits=true&count_private=true" 
     alt="kaylannesatiro github stats"
   />
-
-<img
-    align="left"
-    alt= "GitHub Stats"
-    height="200px"
-    style="padding-right: 10px"
-    src= "https://github-readme-stats.vercel.app/api/top-langs/?username=kaylannesatiro&theme=omni&layout=compact&custom_title=Languages&langs_count=9"
-/>
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaylannesatiro&theme=omni&layout=compact&custom_title=Languages&langs_count=9" 
+    alt="Top Langs"
+  />
+</div>
